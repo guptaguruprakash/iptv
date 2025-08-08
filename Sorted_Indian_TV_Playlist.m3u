@@ -15,10 +15,7 @@ https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/
 https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/digital/master.m3u8
 #EXTINF:-1 tvg-id="NDTVIndia.in",NDTV India (480p) [Not 24/7]
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 tvg-id="SudarshanNews.in",Sudarshan News (720p)
-https://ott.livelegitpro.in/pusa/sudarshantv/index.m3u8
-#EXTINF:-1 tvg-id="TV9Bharatvarsh.in",TV9 Bharatvarsh (720p)
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u
+
 #EXTINF:-1 tvg-id="ZeeBiharJharkhand.in",Zee Bihar Jharkhand (720p)
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-4_24_in/streams/in/ZeeBiharJharkhand.m3u8
 #EXTINF:-1 tvg-id="ZeeBusiness.in@SD",Zee Business (720p)
