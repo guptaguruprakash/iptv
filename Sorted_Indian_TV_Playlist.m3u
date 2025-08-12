@@ -1,7 +1,7 @@
 #EXTM3U
 
 # === NEWS CHANNELS ===
-#EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" group-title="News",Aaj Tak (404p)
+#EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" group-title="News",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
 #EXTINF:-1 tvg-id="BharatSamacharTV.in",Bharat Samachar TV (360p)
 https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
@@ -26,6 +26,8 @@ https://dwby15d04agvq.cloudfront.net/index_1.m3u8
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
 #EXTINF:-1 tvg-id="ZeeNews.in@SD",Zee News (1080p)
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+#EXTINF:-1 tvg-id="eKantipur.np",eKantipur
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
 
 # === OTHER CHANNELS (Alphabetical) ===
 #EXTINF:-1 tvg-id="AndTV.in@SD" tvg-logo="https://i.imgur.com/32W50Y6.png" group-title="Movies",&TV (1080p)
@@ -54,8 +56,7 @@ https://cdn-4.pishow.tv/live/35/master.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@SD" tvg-logo="https://i.imgur.com/J2Ky5OO.png" group-title="Sports",DD Sports (720p)
 https://cdn-6.pishow.tv/live/13/master.m3u8
-#EXTINF:-1 tvg-id="eKantipur.np",eKantipur
-https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FilamchiBhojpuri.in@SD",Filamchi Bhojpuri (1080p)
 https://epiconvh.akamaized.net/live/filamchi/master.m3u8
 #EXTINF:-1 tvg-id="Gubbare.in@SD" tvg-logo="https://i.imgur.com/Bvbf9o7.png" group-title="Kids",Gubbare (1080p)
