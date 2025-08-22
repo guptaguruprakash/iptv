@@ -70,7 +70,7 @@ https://cdn-1.pishow.tv/live/1013/master.m3u8
 #EXTINF:-1 tvg-id="Mastiii.in@SD",Mastiii (1080p)
 https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8
 #EXTINF:-1 tvg-id="MithilaNepalTV.np",Mithila Nepal TV (1080p)
-http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
+http://150.107.205.212:1935/live/mithila/playlist.m3u8
 #EXTINF:-1 tvg-id="Nazara.in@SD",Nazara (1080p)
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
 #EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="Music",9XM (576p)
@@ -79,5 +79,3 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://cdn-3.pishow.tv/live/230/master.m3u8
 #EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Undefined",Sony Kal (1080p)
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Undefined",Football
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1755128510/ei/Xs6caLetIKHa3LUP2tq0sQg/ip/150.107.106.17/id/o8VXCOpoVaQ.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr4---sn-8p5oxujvh-3uhe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AY1jyLM6EeQSKUktUoW1mby38fMz5Zb41XCXOjqdO38yVnFAbCp9vRybswQ94JgnEWKgfyzFvKUOgQ1k/spc/l3OVKcG4qghxShWBwaSwpXhb__RsjRNtCzBizoftcPnKuNbi80TimFAnERnfM4TYfTL1aQZP5N4/vprv/1/playlist_type/DVR/initcwndbps/1133750/met/1755106911,/mh/G7/mm/44/mn/sn-8p5oxujvh-3uhe/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755/mt/1755106596/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAMLSPcMFKjWkgHh6F9I5tuevTJ1DW5LLA7MTJrjHQIseAiASnsgcF6IcCPKcFEpbRrF803OQd2sjGYbzZclftBu2pw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAL891WnQB4_5qzhCGDtYabJVl_jJIS4J7WdSn_zfeCZRAiEArf8v_ZdoNsT7q4K_8EXyyjORGNeRkN4J2Gurtr0AJrY%3D/playlist/index.m3u8
